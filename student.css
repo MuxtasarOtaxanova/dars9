@@ -1,0 +1,60 @@
+*{
+     margin: 0;
+     padding: 0;
+     box-sizing: border-box;
+}
+.quti{
+     background-color: #F2EAE1;
+     width: 270px;
+     height: 120vh;
+     position: sticky;
+     
+     padding-left: 20px;
+}
+ul{
+     list-style: none;
+     font-size: 14px;
+}
+h2{
+     font-size: 20px;
+     padding-top: 18px;
+     padding-left: 25px;
+}
+.profile{
+     padding-top: 34px;
+     padding-left: 50px;
+}
+li{
+     margin:  39px 80px;
+     
+}
+
+.asosiy{
+     display: flex;
+}
+.quti1{
+     padding-left: 30px;
+     padding-top: 21px;
+     display: flex;
+     text-align: center;
+}
+.quti1 img{
+     width: 18px;
+     height: 18px;
+}
+.quti1 .box{
+     padding-left: 815px;
+     
+}
+.vector2{
+     padding-left: 5px;
+}
+.student{
+     margin: 30px;
+}
+.student img{
+     margin-left: 139px;
+}
+.list1{
+     margin:22px 30px 10px 30px
+}
